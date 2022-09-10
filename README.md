@@ -9,7 +9,7 @@
 * Dependency Injection ile soyutlama yönetildi.
 * IoC olarak .NetCore'un kendi IoC yönetimi kullanıldı.
 * ORM olarak EntityFrameworkCore kullanıldı.
-* DB First olarak VisualStudio'nun local sql tabanına kaydedildi.
+* Code First olarak VisualStudio'nun local sql tabanına kaydedildi.
 
 
 ## Giriş Yapma
